@@ -648,7 +648,7 @@ html{
         margin-top: 2%;
     }
     .csp{
-        paddin-top: 110%;
+        margin-top:300%;
         display: block;
         width: 90%;
         height: 80vh;
@@ -662,7 +662,7 @@ html{
         margin-top:400%;
     }
     .footter{
-        padding-top: 300%;
+        margin-top: 300%;
     }
    }
     
